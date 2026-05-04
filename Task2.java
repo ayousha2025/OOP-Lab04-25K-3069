@@ -1,3 +1,7 @@
+// 2. Write a Java program where an Employee object is passed to another
+// constructor to create a safe duplicate. Changes in the duplicate object must
+// not affect the original object.
+
 class Employee {
     String name;
     int salary;
