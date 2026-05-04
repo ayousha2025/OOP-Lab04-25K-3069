@@ -1,3 +1,8 @@
+// 3. Write a Java program for a Mobile class that:
+//  Assigns default values when no data is passed
+//  Reuses constructor logic using constructor chaining
+//  Avoids duplicate initialization code
+
 class Mobile {
     String brand;
     String model;
