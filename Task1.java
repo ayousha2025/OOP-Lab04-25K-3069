@@ -1,3 +1,8 @@
+// 1. Write a Java program for a LibraryBook class with the following requirements
+//  If no data is provided, book title should be &quot;Unknown&quot; and price 0
+//  If title is provided, price should be set to 500
+//  If title and price both are provided, assign both values
+//  Create objects using all possible constructors
 class LibraryBook {
     String title;
     double price;
